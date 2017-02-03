@@ -1,0 +1,2 @@
+C:\Windows\System32\WinMetadata
+add-appxpackage –register AppxManifest.xml
