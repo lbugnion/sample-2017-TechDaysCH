@@ -1,4 +1,4 @@
-# sample-2017-xamarinday
+# What's new in Windows 10 Universal? 
 My code samples for the TechDays Switzerland conference, 31st January 2017, Baden, Switzerland
 
 # Presentation details, Slides
